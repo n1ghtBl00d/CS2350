@@ -104,10 +104,37 @@
 				</tr>
 				
 			</tfoot>
-						
+		</table>				
 	</div>
 	<div id="form demo">
-		
+		<h1>Sample Form</h1>
+		<form action="http://www.cs.tut.fi/cgibin/run/~jkorpela/echo.cgi" method="post">
+			<table>
+				<tr>
+					<th>Full Name</th>
+					<td><input type="text" name="name" /></td>					
+				</tr>
+				<tr>
+					<th>Email</th>
+					<td><input type="text" name="email" /></td>					
+				</tr>
+				<tr>
+					<th>Password</th>
+					<td><input type="password" name="password" /></td>					
+				</tr>
+				<tr>
+					<th>Confirm Password</th>
+					<td><input type="password" name="cPassword" /></td>					
+				</tr>
+				
+			</table>
+			<fieldset name="Favorite Color">
+				<legend>Favorite Color</legend>
+				<input type="radio" name="favColor" value="Green" />Green
+				<input type="radio" name="favColor" value="Blue" />Blue
+				<input type="radio" name="favColor" value="Red" />Red
+			</fieldset>
+		</form>
 	</div>
 	
 </body>
