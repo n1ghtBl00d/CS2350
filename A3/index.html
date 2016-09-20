@@ -134,6 +134,52 @@
 				<input type="radio" name="favColor" value="Blue" />Blue
 				<input type="radio" name="favColor" value="Red" />Red
 			</fieldset>
+			<fieldset name="Favorite Days of the Week">
+				<legend>Favorite Days of the Week</legend>
+				<input type="checkbox" name="day0" value="Sunday" />Sunday
+				<input type="checkbox" name="day1" value="Monday" />Monday
+				<input type="checkbox" name="day2" value="Tuesday" />Tuesday
+				<input type="checkbox" name="day3" value="Wednesday" />Wednesday
+				<input type="checkbox" name="day4" value="Thursday" />Thursday
+				<input type="checkbox" name="day5" value="Friday" checked="checked" />Friday
+				<input type="checkbox" name="day6" value="Saturday" checked="checked" />Saturday
+			</fieldset>
+			<table>
+				<tr>
+					<td>Favorite Month of the Year</td>
+					<td>
+						<select name="favMonth">
+							<optgroup label="Fall">
+								<option value="September">September</option>
+								<option value="October">October</option>
+								<option value="November">November</option>
+							</optgroup>
+							<optgroup label="Winter">
+								<option value="December">December</option>
+								<option value="January">January</option>
+								<option value="February">February</option>
+							</optgroup>
+							<optgroup label="Spring">
+								<option value="March">March</option>
+								<option value="April">April</option>
+								<option value="May">May</option>
+							</optgroup>
+							<optgroup label="Winter">
+								<option value="June">June</option>
+								<option value="July">July</option>
+								<option value="August">August</option>
+							</optgroup>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Comment for Twitter</td>
+					<td><textarea rows="7" cols="20"></textarea></td>
+				</tr>				
+			</table>
+			<input type="hidden" name="hidden" value="This assignment had too much thoughtless typing when
+			inputting the table." />
+			<input type="submit" value="Submit Form" /><input type="reset" value="Clear Form" />
 		</form>
 	</div>
 	
