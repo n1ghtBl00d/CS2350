@@ -81,6 +81,19 @@
 			background-color: #91ab3b;
 		}
 		
+		#nav h1 {
+			padding-left: 20px;
+			font-size: 250%;
+		}
+		
+		#content h3 {
+			color: #000000;
+		}
+		
+		#callout h2, #callout h4, #callout p, #callout li {
+			color: #ffffff;
+		}
+		
 		
 		
 		
