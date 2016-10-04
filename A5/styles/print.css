@@ -1,16 +1,40 @@
 /*
   
    Wildcat Computer Science Style Sheet for printer
-   Author: YOUR NAME
-   Date:   TODAY'S DATE
+   Author: Zach Lore
+   Date:   10/3/16
 
    Filename:         print.css
    Supporting Files: none
 
 */
+@media print {
+	
+	body { 
+		margin: 0;
+		font: normal 12px/18px 'Helvetica', Arial, sans-serif;
+	}
+	
+	/* Hide elements */
+	
+	img, #nav, #logo, #callout {
+		display: none;
+	}
 
-
-
+	/* Positioning Rules */
+	
+	@page {
+		margin: 0.5in;
+	}
+	
+	
+	#footer {
+		width 860px;
+		padding: 0px 20px;
+		position: absolute;
+		bottom: 0;
+	}
+}
 
 
 
