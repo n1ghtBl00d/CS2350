@@ -20,22 +20,11 @@
 	img, #nav, #logo, #callout {
 		display: none;
 	}
-
+	
 	/* Positioning Rules */
 	
-	@page {
-		margin: 0.5in;
-	}
-	
-	
 	#footer {
-		width 860px;
-		padding: 0px 20px;
 		position: absolute;
 		bottom: 0;
 	}
 }
-
-
-
-
