@@ -1,0 +1,66 @@
+Start Page
+
+	My name is Zach Lore. In my own humble opinion, I am the embodyment of Nerdiness.
+
+	I am 17 years old, a senior in high school. I also attend College. I intend to graduate both around the same time. I have always been in gifted and talented classes or honors courses. I have almost always been the smartest in my class. I love learning, and spend most of my time out learing anything that catches my interest. I am naturally driven to learn about, understand, and mentally document everything in the world around me. 
+
+	My high school does not have football, basketball, baseball, volleyball, soccer, or any other "normal" sports teams. We have Robotics teams in two different leagues, and I am a captain on one team. I compete in a cybersecurity club. I know 4 programming languages, and am learning more. I have a 3d Printer. I build and fly multirotors. I sometimes wear a tin foil hat.
+
+
+Of Nerds and Geeks
+
+	I have said that I am a nerd. You may think that this means I must drool over anime, or have $9,000 in Magic cards, or play at least 27 hours of Warcraft a week, or speak Klingon, or play Dungeons and Dragons, or have a perfect Iron Man MkXLV suit that I wear to ComicCon, or love my MineCraft wolf more than my own dog. {strikeout}None of that is true{strikeout} Most of that isn't true (the last one is technically true as I don't have a real dog). Those are Geeky things. 
+	
+	Contrary to the beliefs of most everyone except those of us who are excusively Nerds, Geekiness and Nerdiness are two different things. They are not mutually exclusive and they do share many attributes, but they are different beasts. Geeks are interested in things that other people are not. Things such are Star Trek, Magic the Gathering, Anime series, Warcraft, Dungeons and Dragons, and Cosplay are some common examples. Geeks are very knowlegeable about the things that interest them. Serious gamers often also fall under the Geek category. Geeks are often very involved in smaller communities, especially on the internet, that are dedicated to specific interests. They often have an interest in technology.
+	
+	Nerds, on the other hand, are the intelligent types who learn about and try to understand everything about something. They can have very specific interests, much like Geeks, or just be interested in everything in general. Nerds, unlike Geeks, tend to delve deeply into the inner workings and minute specifics of something. They are not satified just using something, they must understand how and why something works. The persuit of applicable knowlege is what drives a Nerd. Trivia and useless knowlege are not of interest to Nerds. Nerds heavily populate the Hard Sciences, Engineering, and Technology.
+	
+	To use an analogy blatantly stolen from (http://www.goingthewongway.com/difference-between-nerd-geek-and-dork/), Nerds are the Computer Programmers. They understand the system and create something new. They know the computer from the most basic interactions between transistors to the abstractions of how systems interact. Geeks, on the other hand, are the IT guys. They know how to use a computer very well. They can troubleshoot basic problems and recognise more complex problems and follow steps to fix them. They can endlessly customize their computer, knowing what every single setting changes. However, they do not understand exactly how and why things happen. They can set up a computer perfectly, but can't program the most basic program.
+	
+
+Why I am so Smart
+	
+	I have always curious and eager to learn. I asked about and learned multiplication a couple of weeks before I turned 4. Many of my earlies memories are of figuring out something or asking for explanations. My inquisitive nature never faded. I have always tried to figure out everything.
+	
+	I have also always loved technology. One of my earliest memories is of playing a real-time strategy computer game with my younger brother (a game which we still play). He won. My young exposure to technology, coupled with my inquisitive nature, set me up to dig deep and understand computers very well. My familiarity with computers has allowed me to both find specific knowledge and roam the internet at large soaking up information like a sponge. My favorite genres of video games have always been strategy and first-person shooters. I grew up on battle tactics. I also loved board games like Chess and Settlers of Catan - both also heavily involve strategy.
+	
+	Throughout Kindergarden and 1st Grade, my mother thought I could not read. At least not well. I refused to read the books I was given. I never got books to read on my own. She forced me to follow along as she read aloud. I hated it. Then, during Christmas break of my 1st Grade year, my father got me Harry Potter and the Sorcerers Stone. I finally had a book that was interesting and that challenged me. I loved it. I started reading during that Christmas break, and never stopped. The books I had been given in Kindergarden and 1st Grade were too simple for me. Because of how beneath me they were, I hated them and refused to read.
+	
+	After I started reading, I read every day. It was hard to find enough books. I would often read for hours upon hours, to the extent that I sometimes forgot to do my homework. Then I started reading during school. Then I started reading through school.
+
+	Learing was so commonplace for me that I would listen while something new was being taught, then go back to reading while the class learned. In junior high, I would often read straight through class and not miss anything. I usually read straight through lunches. I always read when I got home. I got told that I read too much in a school in a troubled part of town, where they struggled to get their students to read at all. When I moved while I was in junior high, I didn't make friends until I got a fine on my library card and wasn't allowed to check out more books.
+	
+	I attribute my intelligence to these. My curious nature and easy access to information allowed me to constantly learn. My love of reading expanded my vocabulary very early and has helped in my persuit of knowledge. And my enjoyment of strategy games and problem solving has allowed me to refine my skills and thought processes. Simply put: I was raised on books and battle tactics.
+	
+	This upbringing is not without its drawbacks. My obsession with reading and general disdain for those who disliked learing led me to not have many friends, and slowed my social development. However, I would not have it any other way.
+	
+Hobbies
+
+	Robotics
+		Robotics is the hobby I devote the most time to. I have been an active member of my school's FRC Robotics team for 3 years. I recently also joined a team in a second robotics league: Vex Robotics. I also persue smaller robotics and other elecronics projects in my free time at home.
+		
+		My first year of high school, I joined the school robotics team. I decided to be in the Programming Department. It was rough starting out, as I had almost no prior experience with programming and our captain didn't know how to teach it. I caught on and quickly became one of the major contributors in our department.
+		
+		The next year I switched and helped start a new department: Research and Development. I enjoyed R&D more than programming, as it was more hands on and we worked on projects that included work in the fields of all the other departments. R&D was in charge of all the oddball assignments and upkeep of our robots from previous years.
+		
+		Now, I am the captain of Research and Development. It is a major time commitment. We have 1-2 team meetings each week, and there are also often meetings for all the captains of the different departmentsin addition. During the Build Season, which begins in early January and lasts 6 weeks, we meet every day except sundays to build our robot. The year's challenge is announced the first day of Build season, and we have 6 weeks to strategize, design, develop, build, and test our robot. We have to stop at the end ofthe 6 weeks and then go to competition. Our meetings during build season usually last for 3-6 hours.
+		
+	Quadcopters and R/C Vehicles
+		I love building and flying quadcopters, planes, and cars (though the cars often have trouble flying).This hobby could be considered an indoor hobby, as most of my time is spent indoors building, repairing, and maintaining my vehicles, I don't consider it to be. The best parts are outdoors. My love of Roboticsand my love of R/C vehicles and other things that fly build upon each other. I use much the same skillsetfor both and tools.
+			
+		My interest started young, with a christmas gift of some R/C cars when I was little. We enjoyed them for years. Later, my dad got us some cheap R/C helicopters, and I enjoyed them before they were destroyed. I eventually got a R/C plane, and learned something inportant:
+			
+		"Owning a model plane does not a pilot make"
+		-anonymous internet commenter	
+					
+		After I started Robotics, I again got interested in R/C flying vehicles again, though now I fly quadcopters rather than planes.
+			
+		My largest, hardest, and funnest project has been my full-size quadcopter. I ordered everything myself and assembled it from scratch. It is rather large and it has an autopilot capable of autonomous waypoint based flight. It is my pride and joy as well as my black hole of time and money.
+		
+	
+	
+	
+
+
+
+
