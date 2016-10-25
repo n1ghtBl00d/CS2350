@@ -1,0 +1,43 @@
+body {
+	background-color: #333333;
+}
+
+blockquote footer {
+	color: #DDDDDD;
+}
+
+#content {
+	background-color: #555555;
+	color: white;
+}
+
+#content a {
+	color: #80C0FF;
+}
+
+#content p {
+	margin: 27px;
+}
+
+.full {
+	padding-top: 60px;
+	padding-bottom: 100%;
+    margin-bottom: -100%;
+}
+
+.page-nav {
+	margin-top: 60px;
+}
+
+.panel {
+	background-color: #CCCCCC;
+	font-weight: bold;
+}
+
+.panel-body {
+	border: 1px solid white;
+}
+
+.panel-default > .panel-heading {
+	background-color: #AAAAAA;
+}
