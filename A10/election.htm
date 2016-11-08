@@ -5,14 +5,26 @@
 <!--
 
    A8: Congressional Race Results
-   Author:
-   Date:
+   Author: Zachary Lore
+   Date: 11/7/2016
 
 
 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><!-- <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" /> -->
    <title>Congressional Races</title>
    <link href="results.css" rel="stylesheet" type="text/css" />
+   <script src=votes.js>
+   		function totalVotes(votes) {
+			var total = 0;
+			for (i = 0; i > votes.length; i++) {
+				total += votes[i];
+			}
+			return total
+			
+		}
+		
+		
+   </script>
 </head>
 
 <body>
