@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jsLoopDemo</title>
+    
+	<script>
+		function run() {
+			console.log("begin")
+			var num = window.prompt("Input a Number: ", 1);
+			console.log("input " + num)
+			num = Number(num);
+			console.log("check number " + num);
+			if ((num % 1) === 0 && num > 0){
+				console.log("is int > 0");
+				var data = "<table>"
+				for (i = 0; i < num; i++) {
+					data += ("<tr><td>ROW " + (i+1) + "</td></tr>");
+				}
+				data += "</table>";
+				document.getElementById("run").innerHTML = data;
+				document.getElementById("update").setAttribute("bottom","10px");
+			}
+			else {
+				console.log("did not complete check");
+				window.alert("Incorrect input. Please try again.");
+				run();
+			}
+		}
+	</script>
+	
+	<style>
+		td {border:1px solid black;}
+	</style>
+	
+</head>
+<body>
+    
+	<input type="button" name="run" value="run" OnClick="run()" />
+    <p id="run"> </p>
+	
+	<a href="jsTimeDemo.html" style="position:absolute;bottom:10px" id="update">Click Here to go to part 1</a>
+    
+</body>
+</html>

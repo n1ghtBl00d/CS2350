@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jsTimeDemo</title>
+    
+	<script>
+		function dispTime() {
+			var d = new Date();
+			
+			var days = ["Sunday, ", "Monday, ", "Tuesday, ", "Wednesday, ", "Thursday, ", "Friday, ", "Saturday, "];
+			
+			var months = ["January ", "February ", "March ", "April ", "May ", "June ", "July ", "August ", "September ", "October ", "November ", "December "];
+			
+			if (d.getHours() < 12) {
+				var disp = 
+				("Good Morning, it is " + d.getHours() + ":" + d.getMinutes() + " AM on " + days[d.getDay()] + 
+				months[d.getMonth()] + d.getDate() + ", " + d.getFullYear() + ".");
+				window.alert(disp);
+			}
+			
+			else if (d.getHours() < 18) {
+				var disp = 
+				("Good Afternoon, it is " + (d.getHours() - 12) + ":" + d.getMinutes() + " PM on " + days[d.getDay()] + 
+				months[d.getMonth()] + d.getDate() + ", " + d.getFullYear() + ".");
+				window.alert(disp);			
+			}
+			
+			else {
+				var disp = 
+				("Good Evening, it is " + (d.getHours() - 12) + ":" + d.getMinutes() + " PM on " + days[d.getDay()] + 
+				months[d.getMonth()] + d.getDate() + ", " + d.getFullYear() + ".");
+				window.alert(disp);	
+			}
+			
+		}
+	
+	</script>
+	
+</head>
+<body>
+    <input type="button" name="pressForTime" value="Click here to display time" OnClick="dispTime()" />
+	<br />
+	<a href="jsLoopDemo.html" style="position:absolute;bottom:10px">Click Here to go to part 2</a>
+    
+</body>
+</html>
