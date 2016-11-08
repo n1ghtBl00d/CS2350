@@ -28,6 +28,43 @@
 			return Math.round(ret);
 			
 		}
+		
+		function createBar(partyType, percent) {
+			var barText;
+			switch (partyType) {
+				case "D":
+					barText = "<td class='dem'> </td>"
+					break;
+				case "R":
+					barText = "<td class='rep'> </td>"
+					break;
+				case "I":
+					barText = "<td class='ind'> </td>"
+					break;
+				case "G":
+					barText = "<td class='green'> </tx>"
+					break;
+				case "L":
+					barText = "<td class='lib'> </td>"
+			}
+			for (i=0; i < percent; i++) {
+				document.getElementById("results").innerHTML += barText;
+			}
+		}
+		
+		function showResults(race, name, party, votes) {
+			totalV = totalVotes(votes);
+			document.getElementById("results").innerHTML += "<h2>Race</h2> <table> <tr> <th>Candidate</th> <th class='num'>Votes</th> <th class = 'num'>%</th> </tr>";
+			for (i = 0; i < name.length; i++) {
+				var row = "<tr> <td>" + name[i] + " (" + party[i] + ")</td> <td class='num'>" + votes[i] + "</td>"
+				document.getElementById("results").innerHTML += row;
+				var percent = calcPercent(votes[i], totalV);
+				document.getElementById("results").innerHTML += ("<td class='num'>(" + percent + "%)</td>);
+				createBar(party[i], percent);
+				document.getElementById("results").innerHTML += "</tr>";
+			}
+			document.getElementById("results").innerHTML += "</table>";
+		}
    </script>
 </head>
 
@@ -48,7 +85,7 @@
 
    <div id="results">
       <h1>Congressional Races</h1>
-
+		
    </div>
 
 </body>
